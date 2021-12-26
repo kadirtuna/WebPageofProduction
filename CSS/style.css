@@ -1,0 +1,30 @@
+.bg-unusualpurple {
+    background-color: blueviolet !important;
+}
+
+#hero {
+    background-color: blueviolet;
+    background-attachment: fixed;
+    font-family: 'Merriweather', serif;
+}
+
+#hero .container {
+    height: 25vh;
+}
+
+#secondsection .container {
+    height: 15vh;
+}
+
+.img-thumbnail {
+    padding: 0;
+    border: 0;
+}
+
+#textwithbutton {
+    background-color: rgb(245, 245, 245);
+}
+
+#textwithbutton .container {
+    height: 15vh;
+}
